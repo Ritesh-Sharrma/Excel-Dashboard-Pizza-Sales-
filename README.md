@@ -67,7 +67,7 @@ The dataset used in this project contains detailed pizza sales transactions, wit
 
 ## 📷 Dashboard Preview  
 
-*(Insert screenshot of your dashboard here for better presentation.)*  
+*(https://github.com/Ritesh-Sharrma/Excel-Dashboard-Pizza-Sales-/blob/main/Pizza%20Sales%20Dashboard%20image%20preview.png?raw=true)*  
 
 ---
 
